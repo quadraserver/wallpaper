@@ -1,4 +1,4 @@
-#!/bin/bash
+o#!/bin/bash
 clear
 echo ""
 echo "         Welcome to the:"
@@ -17,6 +17,8 @@ echo ""
 echo ""
 git clone https://www.github.com/quadraserver/wallpaper.git
 cd wallpaper
+echo "   copying Wallpapers to /usr/share/backgrounds/Wallpaper..."
 sudo mkdir -p /usr/share/backgrounds/Wallpaper
 cp -R *.jpg /usr/share/backgrounds/Wallpaper
 cd
+echo ""
