@@ -1,5 +1,7 @@
 # Wallpaper
-Here is a "Top 30" collection of nice desktop wallpapers, which will fit also tiling window managers, desktops and login-screens.                    
+Here is a "Top 30" collection of nice desktop wallpapers, which will fit also tiling window managers, <br>
+desktops and login-screens.
+
 ![wallpapers](https://github.com/quadraserver/wallpaper/assets/57691168/6bc0ce19-5ccb-45f0-a0e9-1385cd172947)
 
 Feel free to use them to your liking.
