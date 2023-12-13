@@ -11,11 +11,13 @@ echo "                        2023 by Thomas Lange"
 echo ""
 echo "--------------------------------------------------------"
 echo ""
+cd
+sudo rm -R wallpaper
 git clone https://www.github.com/quadraserver/wallpaper.git
 cd wallpaper
-echo "   copying Wallpapers to /usr/share/backgrounds/Wallpaper..."
+echo "   copying the Wallpapers to /usr/share/backgrounds/Wallpaper..."
 sudo mkdir -p /usr/share/backgrounds/Wallpaper
-cp -R *.jpg /usr/share/backgrounds/Wallpaper
+sudo cp -R *.jpg /usr/share/backgrounds/Wallpaper
 cd
 echo ""
 while true; do
